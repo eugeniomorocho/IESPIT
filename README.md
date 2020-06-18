@@ -1,7 +1,7 @@
 # IESPIT
 
 ## Description
-This repo contains the Android app of ESPIT and IESPIT from the paper: **"An Assistive PIN Input Technology for the Visually Impaired"**.
+This repo contains the Android Package (APK) of ESPIT and IESPIT apps from the paper: **"An Assistive PIN Input Technology for the Visually Impaired"**.
 
 ## Video
 A video of the IESPIT working application can be found here: https://www.youtube.com/watch?v=3fsqFm_TVpY
