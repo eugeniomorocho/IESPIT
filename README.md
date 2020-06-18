@@ -1,8 +1,12 @@
 # IESPIT
-This repo contains the Android app of ESPIT and IESPIT from the paper "An Assistive PIN Input Technology for the Visually Impaired".
+
+##Description
+This repo contains the Android app of ESPIT and IESPIT from the paper **"An Assistive PIN Input Technology for the Visually Impaired"**.
+
+##Video
 A video of the working application can be found here: https://www.youtube.com/watch?v=3fsqFm_TVpY
 
-Abstract:
+##Abstract
 Personal identification number (PIN) passwords are the preferred authentication method for visually impaired users to access digital devices like automated teller machines (ATMs), digital door locks, and cellular phones. 
 The latest PIN input techniques have shown vulnerability to security breaches via shoulder-surfing, screen recording, and smudge attacks.
 In this paper, we introduce the Improved Enhanced Simple PIN Input Technique (IESPIT), an improved PIN input technique that reinforces privacy of the user and eliminates the need for repeated touch actions, thereby making it an efficient and easier verification technique as compared to its predecessors.
